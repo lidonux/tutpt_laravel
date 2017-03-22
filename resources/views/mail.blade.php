@@ -8,7 +8,6 @@
 <title>Đăng ký dự thi kỳ thi kiểm tra năng lực - Trường Đại học Quốc Tế - Tuyển sinh đại học năm 2017</title>	
 	
 <header class="entry-header">
-               <h1 class="entry-title">
-            Đăng ký dự thi kỳ thi kiểm tra năng lực         </h1>
+    <h1 class="entry-title">Biên nhận đăng ký dự thi kỳ thi kiểm tra năng lực - kỳ tháng 05/2017</h1>
 </header>
 <p><strong>I. THÔNG TIN THÍ SINH</strong><br />
