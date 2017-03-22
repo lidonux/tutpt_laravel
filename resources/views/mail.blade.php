@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="http://tuyensinh.hcmiu.edu.vn/xmlrpc.php" />
-<title>Đăng ký dự thi kỳ thi kiểm tra năng lực - Trường Đại học Quốc Tế - Tuyển sinh đại học năm 2017</title>	
+<title>Biên nhận đăng ký dự thi kỳ thi kiểm tra năng lực <br /> Trường Đại học Quốc Tế <br /> Tuyển sinh đại học năm 2017</title>	
 	
 <header class="entry-header">
     <h1 class="entry-title">Biên nhận đăng ký dự thi kỳ thi kiểm tra năng lực - kỳ tháng 05/2017</h1>
