@@ -44,3 +44,7 @@ Route::get('role', [
 ]);
 Route::get('sendbasicemail', 'MailController@basic_email');
 Route::get('sendhtmlemail', 'MailController@html_email');
+
+Route::get('mail', function(){
+    return view('mail');
+});
