@@ -46,3 +46,5 @@ Route::get('sendbasicemail', 'MailController@basic_email');
 Route::get('sendhtmlemail', 'MailController@html_email');
 
 Route::get('mail', 'MailController@receipt_email');
+
+
