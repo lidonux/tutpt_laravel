@@ -30,4 +30,8 @@ class MailController extends Controller
         });
         echo "HTML Email Sent. Check your inbox.";
     }
+    public function receipt_email(){
+    	$data = array('ten'=>'Nguyen Tan Duc);
+    	return View::make('mail', $data);
+    }
 }
